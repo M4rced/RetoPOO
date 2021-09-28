@@ -8,4 +8,5 @@ public class Redondeo {
     public double redondear(double numero){
         return Double.parseDouble(numRedondeado.format(numero).replace(",", "."));
     }
-}
+}//prueba
+
